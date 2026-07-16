@@ -128,7 +128,7 @@ No API keys, credentials, confidential documents, or production workflow configu
 
 # 👨‍💻 Author
 
-## Edwin Ayimde Tamia
+## Edwin Tam
 
 **AI Automation Engineer | AI Solutions Developer**
 
